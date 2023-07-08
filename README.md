@@ -16,8 +16,8 @@
 ##### uvicorn main:app --reload
 "  the code includes all five APIs as specified in the assignment:
 
-1 API to list all available products: GET /products
-2 API to create a new order: POST /orders
+> 1 API to list all available products: GET /products
+> 2 API to create a new order: POST /orders
 3 API to fetch all orders with pagination: GET /orders
 4 API to fetch a single order by order ID: GET /orders/{order_id}
 5 API to update a product's available quantity: PUT /products/{product_id}
