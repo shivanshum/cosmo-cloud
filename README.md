@@ -66,3 +66,26 @@ Response: Returns the updated product details in JSON format if found, or an err
 ![image](https://github.com/shivanshum/cosmo-cloud/assets/53150676/323b7d27-f12d-4b33-80e1-8a96d4ff551c)
 
 ![image](https://github.com/shivanshum/cosmo-cloud/assets/53150676/85ba0fb9-b95a-4680-ad6a-9262db2df5cd)
+
+### To add products using the POST /orders endpoint:
+```
+{
+  "timestamp": "2023-07-06T15:30:00",
+  "items": [
+    {
+      "productId": 0,
+      "boughtQuantity": 2
+    },
+    {
+      "productId": 1,
+      "boughtQuantity": 1
+    }
+  ],
+  "totalAmount": 1999.97,
+  "userAddress": {
+    "city": "New York",
+    "country": "USA",
+    "zip_code": "10001"
+  }
+}
+```
