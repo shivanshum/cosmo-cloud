@@ -60,3 +60,9 @@ Path Parameter: product_id - The ID of the product to update.
 Query Parameter: available_quantity - The new available quantity for the product.
 Response: Returns the updated product details in JSON format if found, or an error message if the product is not found.
 ```
+## Screenshots
+![image](https://github.com/shivanshum/cosmo-cloud/assets/53150676/91f0557c-8539-46aa-83de-1e8769e8d423)
+
+![image](https://github.com/shivanshum/cosmo-cloud/assets/53150676/323b7d27-f12d-4b33-80e1-8a96d4ff551c)
+
+![image](https://github.com/shivanshum/cosmo-cloud/assets/53150676/85ba0fb9-b95a-4680-ad6a-9262db2df5cd)
