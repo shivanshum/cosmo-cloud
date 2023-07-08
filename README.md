@@ -1,6 +1,6 @@
 # cosmo-cloud
- CosmoCloud backend internship assignment - Shivanshu Mishra
- This simple FastAPI application provides an E-commerce API for managing products and orders.
+### CosmoCloud backend internship assignment - Shivanshu Mishra
+### This simple FastAPI application provides an E-commerce API for managing products and orders.
 
 ## Install the dependencies:
  Open Visual Studio Code.
