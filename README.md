@@ -8,5 +8,5 @@
 #### Open the terminal in VS Code by going to View > Terminal.
 ### Step 2: Initialize a New Python Virtual Environment
 ~ python3 -m venv venv
-~ Activate the virtual environment:
+#### Activate the virtual environment
 ~ venv\Scripts\activate
